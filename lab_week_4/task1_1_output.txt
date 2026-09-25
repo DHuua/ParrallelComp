@@ -1,0 +1,70 @@
+]633;E;for i in {1..10}\x3b do echo "=== Run $i ==="\x3b java -cp . ForkJoinLab1\x3b done > task1_1_output.txt;39bc91ac-cf86-4a5e-af6e-459a084b2392]633;C=== Run 1 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
+=== Run 2 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
+=== Run 3 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
+=== Run 4 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
+=== Run 5 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
+=== Run 6 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
+=== Run 7 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+Parallel region closed. Execution returned to master thread.
+=== Run 8 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
+=== Run 9 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
+=== Run 10 ===
+Master thread starting. Spawning thread team of size: 4
+[Worker] Logical Rank: 2 | Worker Thread: ForkJoinPool-1-worker-1 (OS ID:21)
+[Worker] Logical Rank: 1 | Worker Thread: ForkJoinPool-1-worker-2 (OS ID:22)
+[Worker] Logical Rank: 3 | Worker Thread: ForkJoinPool-1-worker-3 (OS ID:23)
+[Master] Logical Rank: 0 | Worker Thread: ForkJoinPool-1-worker-4 (OS ID:24)
+Parallel region closed. Execution returned to master thread.
